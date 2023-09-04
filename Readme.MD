@@ -5,9 +5,9 @@
 ##### Do the stuff below to initialize your project
 
 1. Create a new folder for the Project
-   `mkdir gql-yt`
+   `mkdir GolangGraphQL`
 2. Mod init your project, give it whatever name you like
-   `go mod init github.com/akhil/gql-yt`
+   `go mod init github.com/codertjay/GolangGraphQL`
 3. Get gql gen for your project
    `go get github.com/99designs/gqlgen`
 4. Add gqlgen to tools.go
